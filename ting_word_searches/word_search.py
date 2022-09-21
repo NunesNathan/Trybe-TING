@@ -25,7 +25,3 @@ def exists_word(word, instance: queue.Queue):
         return empty_list
 
     return finded
-
-
-def search_by_word(word, instance):
-    """Aqui irá sua implementação."""
